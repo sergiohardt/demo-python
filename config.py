@@ -21,4 +21,4 @@ WEBHOOK_RECEIVER_URL = 'http://localhost:5001/consumetasks'
 
 #Map to the REDIS Server Port
 BROKER_URL = 'redis://localhost:6379'
-#######################################
+######################################
